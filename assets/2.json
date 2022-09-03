@@ -1,0 +1,19 @@
+{
+    "name": "WOLF_3",
+    "symbol": "SYMBOL_OF_NFT",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "jZrFyryeNGwv4CHRP5vcZeKtyYJuGYJ1MEuzJzKnbZr",
+          "share": 100
+        }
+      ]
+    }
+  }
